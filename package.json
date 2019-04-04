@@ -1,0 +1,22 @@
+{
+  "name": "macaroni-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx babel src --out-dir dist",
+    "build:watch": "npx babel src --watch --out-dir dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "babel-plugin-macaroni": "^1.0.0",
+    "macaroni": "0.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.0"
+  }
+}
