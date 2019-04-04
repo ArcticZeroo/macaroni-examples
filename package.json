@@ -14,7 +14,7 @@
     "@babel/cli": "^7.4.3",
     "@babel/core": "^7.4.3",
     "babel-plugin-macaroni": "^1.0.0",
-    "macaroni": "0.0.2"
+    "macaroni": "0.0.3"
   },
   "devDependencies": {
     "@types/node": "^11.13.0"
